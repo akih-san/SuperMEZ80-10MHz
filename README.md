@@ -59,4 +59,5 @@ PICのファームウェアソースは、emuz80_z80ram_all.cです。
 元のソースは、http://www.bobsoremweb.com/startrek.html　で公開されています。
 
 （Z80のプログラムソース）
-EMUZ80
+EMUZ80-MON Rev.B04 ( https://github.com/akih-san/EMUEMUZ80-MON )で公開していますので、
+そちらを参照してください。
