@@ -44,4 +44,4 @@ EMUZ80と同様にPICに、GBASIC、TINY BASIC、GAME80、GAME80コンパイラ�
 
 （メモリマップ）
 
-[SuperMEZ80メモリマップ.pdf](https://github.com/akih-san/SuperMEZ80-10MHz/files/10466870/SuperMEZ80.pdf)
+(https://github.com/akih-san/SuperMEZ80-10MHz/files/10466870/SuperMEZ80.pdf)
