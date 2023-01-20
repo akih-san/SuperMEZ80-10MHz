@@ -26,7 +26,9 @@ https://user-images.githubusercontent.com/112370246/213708107-5d3125b2-3d94-4d20
 
 2通りのプログラムを公開します。
 
+
 １．メモリの空き容量重視のプログラム
+
 
 モニタープログラムのみＰＩＣに書き込まれています。起動時に、メモリの後方（Ｄ０００Ｈ）にモニターは転送され、
 40番地からフリーエリアとなります。
@@ -43,7 +45,9 @@ SuperMEZ80_10MHz_Q8x.X.production.hexです。ロードするプログラムは�
 
 PICのファームウェアソースは、emuz80_z80ram.cです。
 
+
 ２．EMUZ80と同じ形式
+
 
 EMUZ80と同様にPICに、GBASIC、TINY BASIC、GAME80、GAME80コンパイラを収納してあります。
 
@@ -55,15 +59,19 @@ SuperMEZ80_10MHz_Q8x_all.X.X.production.hexです。
 
 PICのファームウェアソースは、emuz80_z80ram_all.cです。
 
+
 （モニタの機能拡張）
+
 
 モニタRev.B04では、LGコマンド（Load and Go）の機能を追加しました。
 
 ヘキサファイル（インテル、モトローラ）をロード後、ロードした先頭アドレスにジャンプします。
 
+
 （メモリマップ）
 
 [SuperMEZ80メモリマップ.pdf](https://github.com/akih-san/SuperMEZ80-10MHz/files/10466937/SuperMEZ80.pdf)
+
 
 （サンプルプログラム）
 
