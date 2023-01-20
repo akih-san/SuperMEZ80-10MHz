@@ -37,7 +37,9 @@ https://user-images.githubusercontent.com/112370246/213708107-5d3125b2-3d94-4d20
 
 BASIC等のプログラムは、モニタのロード機能を使います。115Kで通信しますので、ロードも早いです。
 
-書き込むファイルは、SuperMEZ80_10MHz_Q8x.X.production.hexです。ロードするプログラムは、programフォルダにあります。
+書き込むファイルは、
+
+SuperMEZ80_10MHz_Q8x.X.production.hexです。ロードするプログラムは、programフォルダにあります。
 
 PICのファームウェアソースは、emuz80_z80ram.cです。
 
@@ -47,7 +49,9 @@ EMUZ80と同様にPICに、GBASIC、TINY BASIC、GAME80、GAME80コンパイラ�
 
 フリーエリアは３２Ｋとなります。３２Ｋで十分だという方は、こちらを使用してください。
 
-書き込むファイルは、SuperMEZ80_10MHz_Q8x_all.X.X.production.hexです。
+書き込むファイルは、
+
+SuperMEZ80_10MHz_Q8x_all.X.X.production.hexです。
 
 PICのファームウェアソースは、emuz80_z80ram_all.cです。
 
