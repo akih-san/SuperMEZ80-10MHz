@@ -60,7 +60,7 @@ SuperMEZ80_10MHz_Q8x_all.X.X.production.hexです。
 PICのファームウェアソースは、emuz80_z80ram_all.cです。
 
 
-（モニタの機能拡張）
+((((( モニタの機能拡張 )))))
 
 
 モニタRev.B04では、LGコマンド（Load and Go）の機能を追加しました。
