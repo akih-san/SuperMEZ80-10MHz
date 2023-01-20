@@ -56,7 +56,7 @@ PICのファームウェアソースは、emuz80_z80ram_all.cです。
 ・startrek_classic
 
 懐かしいaltair basic star trekをGBASICで動かせるようにしてみました。
-元のソースは、http://www.bobsoremweb.com/startrek.html　で公開されています。
+元のソースは、( http://www.bobsoremweb.com/startrek.html )で公開されています。
 
 （Z80のプログラムソース）
 EMUZ80-MON Rev.B04 ( https://github.com/akih-san/EMUEMUZ80-MON )で公開していますので、
