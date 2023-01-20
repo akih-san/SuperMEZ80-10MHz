@@ -3,7 +3,7 @@
 SuperMEZ80にEMUZ80モニタを移植しました。
 MEZで使用ているCPUはzilog Z84C0010PEG 10MHzのCMOS版Z80です。定格の10MHzで使用しています。
 
-ROMプログラム容量の影響でPIC18F47Q84のみサポートしています。
+ROMプログラム容量の関係でPIC18F47Q84のみサポートしています。
 
 PICのファームウェアに、UARTのXON/XOFFフロー制御を実装し、115.2Kbpsの通信ができます。
 
