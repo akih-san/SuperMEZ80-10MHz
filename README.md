@@ -23,6 +23,7 @@ U3BRG = 34;		// 115200bps @ 64MHz
 サンプルボーレートが幾つか選べますので、トライアンドエラーを行ってみてください。
 
 TeraTermでの接続例です。
+
 https://user-images.githubusercontent.com/112370246/213708107-5d3125b2-3d94-4d20-b701-4bde53d1b619.png)
 
 2通りのプログラムを公開します。
